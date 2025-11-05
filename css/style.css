@@ -1,0 +1,67 @@
+nav{
+    background-color: black;
+}
+
+header{
+    height: 80vh;
+    background-image: url(../img/Imagem\ principal.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.titulo_1{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    text-shadow: 2px 3px 2px black;
+    text-transform: uppercase;
+    
+}
+
+.secao_01{
+    background-color: black;
+}
+
+.titulo_2{
+    text-transform: uppercase;
+    font-size: 60px;
+    color: #D10303;
+}
+
+.secao_02{
+    background-color: #D10303;
+}
+
+.titulo_3{
+    color: black;
+}
+
+.botao{
+    background-color: black;
+}
+
+.background_card{
+    background-color: #D10303;
+}
+
+.cards{
+    color: black;
+    text-align: justify;
+    text-indent: 1.5cm;
+}
+
+footer{
+    background-color: black;
+}
+
+footer div{
+    color: white;
+    gap: 20px;
+    margin-right: 100px;
+}
+
+footer div a{
+    color: #fff !important;
+    text-decoration: none;
+}
